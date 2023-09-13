@@ -1,8 +1,10 @@
 [package]
-name = "kepler"
+name = "kepler-ra"
 version = "0.4.7"
 authors = ["Phil Chen <winkpoke@yahoo.com>"]
 edition = "2021"
+license = "MIT"
+description = "description"
 
 [lib]
 crate-type = ["cdylib", "rlib"]

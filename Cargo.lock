@@ -77,7 +77,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "kepler"
+name = "kepler-ra"
 version = "0.4.7"
 dependencies = [
  "approx",
